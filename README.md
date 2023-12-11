@@ -97,3 +97,9 @@ Contributing to this repository grants you an opportunity to become part of the 
 
 Thank you for considering contributing to Crypto Policy DAO! Your involvement and insights will help shape a web3-friendly regulatory environment that fosters innovation, protects users, and drives responsible growth in the blockchain ecosystem.
 
+For those that contribute and join, below is the NFT they will receive verifying their work. 
+
+https://github.com/CryptoPolicyDAO/CryptoPolicyDAO/assets/117195996/53738877-6a2c-4098-b6eb-63db100e15db
+
+
+
